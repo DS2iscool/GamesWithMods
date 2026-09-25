@@ -106,3 +106,5 @@ without permission.
 ## License
 
 MIT.
+
+## NOTE: Will put game in folder. Coming soon...
