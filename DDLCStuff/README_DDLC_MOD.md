@@ -1,3 +1,4 @@
+#NOTE: Game with mod and game and mod coming soon...
 # ddlc-qol-mod
 
 An unofficial, loose-`.rpy` quality-of-life / cheat mod for
