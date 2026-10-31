@@ -41,7 +41,7 @@ Python required. Download/clone the repo and double-click
 Requires Python 3, nothing else.
  
 ```bash
-git clone https://github.com/yourusername/glitchtext-hell.git
+git clone https://github.com/DS2iscool/glitchtext-hell.git
 cd glitchtext-hell
 python3 glitchtext_hell.py
 ```
