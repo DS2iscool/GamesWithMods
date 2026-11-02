@@ -1,4 +1,4 @@
-#NOTE: Game with mod and game and mod coming soon...
+
 # ddlc-qol-mod
 
 An unofficial, loose-`.rpy` quality-of-life / cheat mod for
@@ -84,5 +84,5 @@ standalone `.rpy` file that runs alongside them.
 ## License
 
 MIT, for this mod file. DDLC itself is © Team Salvato, all rights
-reserved — this repo does include or redistribute any of their
+reserved — this repo does not include or redistribute any of their
 assets or script content. 
